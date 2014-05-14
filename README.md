@@ -1,4 +1,5 @@
 def short(lis):
+
    '''
    Juan Villate Isaza 06/04/2014
    Obj: por medio de parametro de una lista ordenar de menor a mayor la lista dada, con el numero de la mitad.
