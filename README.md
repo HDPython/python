@@ -1,4 +1,2 @@
-python
-======
-
-codigo python
+def main():
+  print("hola")
